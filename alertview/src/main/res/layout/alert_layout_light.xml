@@ -44,7 +44,8 @@
                 android:paddingEnd="16dp"
                 android:paddingStart="16dp"
                 android:textColor="@color/messageColor"
-                android:textSize="12sp"
+                android:textSize="18sp"
+                android:background="#BC6ABAFF"                                   
                 tools:text="This photo will be deleted from all of your devices" />
         </LinearLayout>
 
