@@ -2,7 +2,7 @@
 <resources>
     <color name="optionsColor">#424242</color>
     <color name="titleColor">#424242</color>
-    <color name="messageColor">#424242</color>
+    <color name="messageColor">#171717</color>
     <color name="green">#43A047</color>
     <color name="red">#F44336</color>
     <color name="backgroundColor">#F5F5F5</color>
